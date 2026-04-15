@@ -1,10 +1,10 @@
 <div align="right">
-  🌍 <b>EN</b> | <a href="README-fr.md">FR</a>
+  🌍 <a href="README.md">EN</a> | <b>FR</b>
 </div>
 
 <div align="center">
   <h1>🛠️ Tobi</h1>
-  <p><b>Computer Science Student | C#/.NET, Linux Systems & Computer Networking</b></p>
+  <p><b>Étudiant en Informatique | C#/.NET, Systèmes Linux & Réseaux</b></p>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknoxx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olutobi/)
@@ -17,18 +17,18 @@
 
 ---
 
-## ⚡ Technical Profile
+## ⚡ Profil Technique
 
-> Prioritizing **systems depth** over breadth. As a Software Engineering student, I actively reject the "code-only" mentality by integrating **Computer Networking** and **Security** into my core skill set.
+> Priorité à la **profondeur système** plutôt qu'à la dispersion. En tant qu'étudiant en ingénierie logicielle (BTS SIO SLAM), je rejette la mentalité "100% code" en intégrant les **Réseaux** et la **Sécurité** à mon socle technique.
 
-- **Environments:** Ubuntu Budgie (Workstation) | Debian (Home Server)
-- **Development:** C# (OOP & Design Patterns), Python, Shell Scripting
-- **Networking & Infra:** CCNA fundamentals, Subnetting, Docker, n8n Automation
-- **Security:** TryHackMe (THM), OverTheWire (OTW), PicoCTF
+- **Environnements :** Ubuntu Budgie (Poste de travail) | Debian (Serveur bare-metal)
+- **Développement :** C# (POO & Design Patterns), Python, Scripting Shell
+- **Réseau & Infra :** Fondamentaux CCNA, Subnetting, Docker, Automatisation n8n
+- **Sécurité :** TryHackMe (THM), OverTheWire (OTW), PicoCTF
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Technique
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -44,18 +44,18 @@
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Focus Actuel
 
-- **Computer Networking & Security:** Pursuing CCNA concepts to master routing and protocols. Actively reinforcing Linux CLI and security fundamentals through THM, OTW, and PicoCTF.
-- **Backend Development:** Structuring robust REST APIs and applying C# SOLID principles.
-- **Home Lab:** Managing a bare-metal Debian server environment with Docker containerization.
+- **Réseaux & Sécurité :** Apprentissage des concepts CCNA (routage et protocoles). Renforcement pratique de la CLI Linux et de la sécurité via THM, OTW et PicoCTF.
+- **Développement Backend :** Structuration d'APIs REST robustes et application des principes SOLID en C#.
+- **Home Lab :** Administration d'un environnement serveur Debian avec conteneurisation Docker.
 
 ---
 
-## 🎯 Looking For
+## 🎯 Recherche
 
-**Alternance (Apprenticeship)**
-Seeking a junior developer, systems, or networking-oriented role in a small, agile team. Looking to solve real problems and deploy tangible solutions.
+**Alternance (Contrat d'apprentissage)**
+À la recherche d'un poste de développeur junior ou orienté système/réseau au sein d'une équipe agile. Objectif : résoudre des problèmes concrets et déployer des solutions tangibles.
 
 <br/>
 
