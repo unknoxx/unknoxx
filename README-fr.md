@@ -47,7 +47,7 @@
 ## 🚀 Focus Actuel
 
 - **Réseaux & Sécurité :** Apprentissage des concepts CCNA (routage et protocoles). Renforcement pratique de la CLI Linux et de la sécurité via THM, OTW et PicoCTF.
-- **Développement Backend :** Structuration d'APIs REST robustes et application des principes SOLID en C#.
+- **Développement Backend :** Maîtrise de la Programmation Orientée Objet (POO) en C# et résolution de problèmes algorithmiques.
 - **Home Lab :** Administration d'un environnement serveur Debian avec conteneurisation Docker.
 
 ---

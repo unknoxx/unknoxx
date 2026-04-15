@@ -47,7 +47,7 @@
 ## 🚀 Current Focus
 
 - **Computer Networking & Security:** Pursuing CCNA concepts to master routing and protocols. Actively reinforcing Linux CLI and security fundamentals through THM, OTW, and PicoCTF.
-- **Backend Development:** Structuring robust REST APIs and applying C# SOLID principles.
+- **Backend Development:** Deep-diving into C# Object-Oriented Programming (OOP) and algorithmic problem solving.
 - **Home Lab:** Managing a bare-metal Debian server environment with Docker containerization.
 
 ---
