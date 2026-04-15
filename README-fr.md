@@ -6,8 +6,9 @@
   <h1>🛠️ Tobi</h1>
   <p><b>Étudiant en Informatique | C#/.NET, Systèmes Linux & Réseaux</b></p>
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknoxx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olutobi/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111923?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/unknoxx)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/unknoxx)
 
   <br />
   <br />
