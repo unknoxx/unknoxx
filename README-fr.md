@@ -4,8 +4,8 @@
 
 <div align="center">
   <h1>🛠️ Tobi Akinsinmide</h1>
-  <p><b>Développement Logiciel & Systèmes Linux (BTS SIO SLAM) · Amiens, France</b></p>
-  <p>Développeur orienté back-end avec compétences full-stack, workflows conteneurisés et administration Linux pratique.</p>
+  <p><b>Développement Logiciel & Systèmes Linux (BTS SIO) · Amiens, France</b></p>
+  <p>Développement back-end, systèmes Linux et infrastructure auto-hébergée.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/olutobi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,22 +17,23 @@
 
 ---
 
-## ⚡ Profil Technique
+## ⚡ Profil
 
-> La profondeur système plutôt que la dispersion. Étudiant en développement logiciel avec un fort penchant pour l'architecture back-end, l'administration de serveurs Linux et l'intégration full-stack pragmatique.
+> La profondeur système plutôt que la dispersion. Deux ans de BTS SIO, mais le vrai apprentissage s'est fait sur un netbook Debian que j'ai cassé et reconstruit plus de fois que je ne peux compter.
 
-- **Environnements principaux :** Debian 12 (serveur headless via SSH) · Kubuntu (poste de travail)
-- **Cœur de compétences :** Architectures back-end (PHP/Symfony, Python, C#), bases de données relationnelles et intégration front-end propre (HTML5, CSS3, JavaScript)
+- **Machines :** Kubuntu (poste de travail) · Debian 12 (serveur headless, SSH uniquement)
+- **Back-end :** PHP / Symfony, SQL, Python, C#
+- **Front-end :** HTML, CSS, JavaScript quand un projet a besoin d'une interface
 
 ---
 
-## 🖥️ Homelab Bare-Metal
+## 🖥️ Home Lab
 
-> Un netbook ASUS headless tournant 24/7 sur un maillage Tailscale — configuré, cassé et reconstruit de zéro.
+> Un netbook ASUS qui tourne en headless 24/7 sur Tailscale. Tout ce qui suit tourne dessus.
 
-- **Web & Données :** Nginx avec hôtes virtuels (vhosts) dédiés, PHP 8.2-FPM via sockets Unix, MariaDB
-- **Réseau & Sécurité :** Maillage Tailscale, pare-feu UFW en default-deny, autorité de certification (CA) interne pour du vrai TLS sur le LAN
-- **Ops & Automatisation :** Conteneurisation Docker, déploiements Git automatisés, scripts Bash & Python pour les sondes de santé et sauvegardes
+- **Web :** Nginx avec vhosts dédiés, PHP 8.2-FPM via sockets Unix, MariaDB
+- **Réseau :** Tailscale, pare-feu UFW en default-deny, autorité de certification interne pour du vrai TLS en local
+- **Conteneurs & Outils :** Docker, déploiements via Git, scripts Bash et Python pour les sauvegardes et sondes de santé
 
 ---
 
@@ -67,13 +68,13 @@
 
 ## 🎯 Recherche
 
-**Alternance — Cycle Ingénieur Informatique & Systèmes (Bac+5) — Septembre 2027**  
-À la recherche d'une alternance en **systèmes, infrastructure ou ingénierie back-end**. Motivé à intervenir sur des environnements de production réels, résoudre des défis techniques concrets et porter des projets avec autonomie.
+**Alternance - Cycle Ingénieur (Bac+5) - Septembre 2027**  
+À la recherche d'une alternance en back-end, systèmes ou infrastructure. Pour travailler sur de la vraie production et porter des projets de bout en bout.
 
 <br />
 
 <div align="center">
-  <i>« Break it, read the logs, fix it, document it. »</i>
+  <i>"Break it, read the logs, fix it, document it."</i>
   <br />
   <sub>Anglais (Langue maternelle) · Français (Professionnel) · Yoruba (Langue maternelle)</sub>
 </div>

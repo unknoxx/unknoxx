@@ -5,7 +5,7 @@
 <div align="center">
   <h1>🛠️ Tobi Akinsinmide</h1>
   <p><b>Software Engineering & Linux Systems (BTS SIO) · Amiens, France</b></p>
-  <p>Back-end focused developer with full-stack capability, containerized workflows, and hands-on Linux administration.</p>
+  <p>Back-end development, Linux systems, and self-hosted infrastructure.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/olutobi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,22 +17,23 @@
 
 ---
 
-## ⚡ Technical Focus
+## ⚡ Profile
 
-> Systems depth over breadth. Software engineering student with a strong bias toward back-end architecture, Linux server management, and pragmatic full-stack delivery.
+> Systems depth over breadth. Two years of BTS SIO, but the real curriculum has been a Debian netbook I broke and rebuilt more times than I can count.
 
-- **Primary Environments:** Debian 12 (headless server via SSH) · Kubuntu (workstation)
-- **Core Engineering:** Back-end architectures (PHP/Symfony, Python, C#), relational databases, and clean front-end UI integration (HTML5, CSS3, JavaScript)
+- **Machines:** Kubuntu (workstation) · Debian 12 (headless server, SSH only)
+- **Back-end:** PHP / Symfony, SQL, Python, C#
+- **Front-end:** HTML, CSS, JavaScript when a project needs an interface
 
 ---
 
-## 🖥️ Bare-Metal Lab
+## 🖥️ Home Lab
 
-> A headless ASUS netbook running 24/7 over a Tailscale mesh — built, broken, and rebuilt from scratch.
+> An ASUS netbook running headless 24/7 over Tailscale. Everything below runs on it.
 
-- **Web & Data:** Nginx with per-site vhosts, PHP 8.2-FPM over Unix sockets, MariaDB
-- **Networking & Security:** Tailscale mesh, UFW default-deny, internal CA for real LAN TLS certificates
-- **Ops & Automation:** Docker containerization, automated Git deployments, Bash & Python health checks and backup routines
+- **Web:** Nginx with per-site vhosts, PHP 8.2-FPM over Unix sockets, MariaDB
+- **Network:** Tailscale mesh, UFW default-deny, internal CA so local services get real TLS
+- **Containers & Tooling:** Docker, Git-based deploys, shell and Python scripts for backups and health checks
 
 ---
 
@@ -67,8 +68,8 @@
 
 ## 🎯 Looking For
 
-**Software & Systems Engineering Apprenticeship (Alternance) — September 2027**  
-Targeting **systems, infrastructure, or back-end engineering**. Eager to contribute to production environments, tackle real-world engineering problems, and take ownership of technical challenges.
+**Engineering Apprenticeship (Alternance) - September 2027**  
+Looking for an apprenticeship in back-end, systems, or infrastructure engineering. Somewhere I can work on real production systems and own things end-to-end.
 
 <br />
 
