@@ -38,22 +38,9 @@
 
 ## 🖥️ Home Lab
 
-```text
-╭── tobi@netbook:~ ─────────────────────────────────────────── [● ● ●] ─╮
-│ $ uname -srm                                                          │
-│ Linux 6.1.0-28-amd64 x86_64 (Debian 12 bookworm)                      │
-│                                                                       │
-│ $ systemctl status homelab.target                                     │
-│ ● homelab.target - Infrastructure Homelab Netbook (Headless)          │
-│   Loaded: active (running) 24/7 sur maillage Tailscale                │
-│   Web:    Nginx ➔ PHP 8.2-FPM (sock Unix) ➔ MariaDB                   │
-│   Net:    Maillage Tailscale · UFW (default-deny)                     │
-│   TLS:    Autorité interne (CA) avec TLS local réel                   │
-│   Ops:    Docker · Déploiements Git · Scripts Bash & Python           │
-│                                                                       │
-│ tobi@netbook:~$ _                                                     │
-╰───────────────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="assets/terminal-fr.gif" alt="Terminal Homelab" width="800" />
+</p>
 
 - **Web :** Nginx avec vhosts dédiés, PHP 8.2-FPM via sockets Unix, MariaDB
 - **Réseau :** Tailscale, pare-feu UFW en default-deny, autorité de certification interne pour du vrai TLS en local
