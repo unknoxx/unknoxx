@@ -39,15 +39,20 @@
 ## 🖥️ Home Lab
 
 ```text
-┌───────────────────────────────────────────────────────────────┐
-│   Netbook ASUS · Debian 12 (Headless) · Maillage Tailscale    │
-├───────────────────┬───────────────────────────────────────────┤
-│ Web & Données     │ Nginx ➔ PHP 8.2-FPM (sock Unix) ➔ MariaDB │
-│ Réseau & Sécurité │ Maillage Tailscale · UFW (Default-Deny)   │
-│ Certificats & TLS │ Autorité interne (CA) avec TLS local réel │
-│ Déploiements      │ Pipeline Git direct (push-to-deploy)      │
-│ Automatisation    │ Scripts Bash & Python (alertes & backups) │
-└───────────────────┴───────────────────────────────────────────┘
+╭── tobi@netbook:~ ─────────────────────────────────────────── [● ● ●] ─╮
+│ $ uname -srm                                                          │
+│ Linux 6.1.0-28-amd64 x86_64 (Debian 12 bookworm)                      │
+│                                                                       │
+│ $ systemctl status homelab.target                                     │
+│ ● homelab.target - Infrastructure Homelab Netbook (Headless)          │
+│   Loaded: active (running) 24/7 sur maillage Tailscale                │
+│   Web:    Nginx ➔ PHP 8.2-FPM (sock Unix) ➔ MariaDB                   │
+│   Net:    Maillage Tailscale · UFW (default-deny)                     │
+│   TLS:    Autorité interne (CA) avec TLS local réel                   │
+│   Ops:    Docker · Déploiements Git · Scripts Bash & Python           │
+│                                                                       │
+│ tobi@netbook:~$ _                                                     │
+╰───────────────────────────────────────────────────────────────────────╯
 ```
 
 - **Web :** Nginx avec vhosts dédiés, PHP 8.2-FPM via sockets Unix, MariaDB
